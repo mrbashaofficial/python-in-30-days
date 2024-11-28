@@ -56,3 +56,13 @@ Welcome to the **30-Day Python Learning Plan**! This repository contains all the
 
 ## 📂 Repository Structure
 Each day's content is in its respective folder:
+Day01/ Day02/ ... Day30/
+
+---
+
+## 📧 Feedback
+Have questions or suggestions? Feel free to raise an issue or contact me via [email](mailto:shaik.badsha@gmail.com).
+
+---
+
+Happy Learning! 🎉
